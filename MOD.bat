@@ -1,0 +1,1 @@
+curl -s -v -X POST https://api.telegram.org/XXXXX:XXXXXXX/sendPhoto?chat_id=9999999 -F photo=@shot.png
